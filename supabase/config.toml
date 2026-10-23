@@ -1,0 +1,2 @@
+[functions.food-vision]
+verify_jwt = true
